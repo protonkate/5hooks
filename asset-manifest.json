@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/5hooks%20/static/css/main.073c9b0a.css",
+    "main.js": "/5hooks%20/static/js/main.be9e3c97.js",
+    "index.html": "/5hooks%20/index.html",
+    "main.073c9b0a.css.map": "/5hooks%20/static/css/main.073c9b0a.css.map",
+    "main.be9e3c97.js.map": "/5hooks%20/static/js/main.be9e3c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.be9e3c97.js"
+  ]
+}
